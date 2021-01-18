@@ -1,5 +1,8 @@
 {
   "name": "yarn2-test",
+  "scripts": {
+    "dev": "nodemon some/deep/path/to/a/file.js"
+  },
   "dependencies": {
     "~": "link:./"
   },
